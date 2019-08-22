@@ -41,7 +41,7 @@ define( 'WWS_VER_NUM', '1.0.0' );
 define( 'WWS_BASE_PATH', dirname( __FILE__ ) );
 define( 'WWS_FILE_URL', plugins_url( '', __FILE__ ) );
 define( 'WWS_ARCHIVE_ACTIVATE',false );
-
+1234
 /**
  * Autoload classes.
  */
